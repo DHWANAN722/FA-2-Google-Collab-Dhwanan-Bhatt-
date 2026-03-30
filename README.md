@@ -2,7 +2,7 @@
 ### FinTrust Bank Ltd. — Actionable Insights & Interactive Python Script
 
 ---
-
+APP LINK: https://7fpahnc8fiur4fgvshwvys.streamlit.app/
 ## 📌 About This Project
 
 This project is **Formative Assessment 2 (FA-2)** for the Data Mining module. It builds on the cleaned ATM dataset from FA-1 and applies core data mining techniques to generate actionable insights for FinTrust Bank Ltd.
